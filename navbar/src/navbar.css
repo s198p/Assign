@@ -1,0 +1,18 @@
+.flexdiv{
+    display:flex;
+    justify-content: space-evenly;
+    color:white;
+    background-color:rgb(63, 62, 62);
+}
+.flexsubdiv{
+    display:flex;
+    gap:30px;
+    margin-top:10px;
+}
+.btn{
+    margin-top:27px;
+    background-color:teal;
+    border:1px solid teal;
+    border-radius:50px;
+    color:white;
+}
